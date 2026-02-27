@@ -8,7 +8,7 @@ This project features an interactive **Tableau dashboard** that analyzes key HR 
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard Preview]<img width="1015" height="588" alt="HR Dashboard Screenshot" src="PASTE-YOUR-GITHUB-IMAGE-LINK-HERE" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/a0548ba6-5b49-41e7-beca-c28ff8c6eec5" />
 
 ---
 
