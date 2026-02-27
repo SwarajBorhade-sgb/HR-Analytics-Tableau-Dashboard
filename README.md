@@ -1,64 +1,63 @@
-👩‍💼 HR Analytics Dashboard (Tableau)
+# 👩‍💼 HR Analytics Dashboard (Tableau)
 
-This project features an interactive Tableau dashboard that analyzes workforce trends and employee attrition using HR data.
+This project features an interactive **Tableau dashboard** that analyzes key HR metrics including employee attrition, workforce demographics, and job satisfaction.
 
-📊 Designed to uncover insights into employee demographics, job satisfaction, and attrition drivers, this dashboard demonstrates practical HR analytics and storytelling skills for business decision-making.
+📊 Built to uncover retention drivers and workforce patterns, this dashboard serves as a portfolio-ready HR analytics solution.
 
-🖼️ Dashboard Preview
+---
 
-(Add your Tableau dashboard screenshot here — export PNG from Tableau and upload to GitHub)
+## 🖼️ Dashboard Preview
 
-📊 Dashboard Highlights
-Metric	Description
-👥 Workforce Overview	Track total employees, active employees, attrition rate & average age
-📉 Attrition Analysis	Identify attrition trends by department, gender, and age group
-🎓 Education Insights	Understand attrition distribution across education backgrounds
-💼 Job Satisfaction	Analyze satisfaction levels across different job roles
-📊 Demographic Trends	Visualize workforce distribution by gender and age
-🛠 Tools & Skills Used
+![HR Analytics Dashboard Preview]<img width="1015" height="588" alt="HR Dashboard Screenshot" src="PASTE-YOUR-GITHUB-IMAGE-LINK-HERE" />
 
-Tableau
+---
 
-Data Cleaning & Preparation (Excel)
+## 📊 Dashboard Highlights
 
-HR Analytics
+| Metric | Description |
+|--------|-------------|
+| 👥 Workforce Overview | Track total employees, active employees, attrition rate & average age |
+| 📉 Attrition Analysis | Identify attrition trends by department, gender, and age group |
+| 🎓 Education Insights | Visualize attrition across different education backgrounds |
+| 💼 Job Satisfaction | Analyze satisfaction ratings across job roles |
+| 📊 Demographic Trends | Explore workforce distribution by gender and age |
 
-Dashboard Design & Data Storytelling
+---
 
-Business Insight Generation
+## 🛠 Tools & Skills Used
 
-📁 Project Files
-File Name	Description
-HR ANALYTICS DASHBOARD.twbx	Tableau packaged workbook with visuals
-HR Analytics Dashboard QNA.pdf	Business questions, insights & recommended actions
-HR dashboard image.pdf	Dashboard snapshot
-🧠 Key Insights
+- **Tableau**
+- **Excel (Data Cleaning & Preparation)**
+- **HR Analytics**
+- **Dashboard Design**
+- **Data Storytelling & Visualization**
 
-Workforce size: 1,470 employees with 16.12% attrition
+---
 
-Highest attrition observed in Sales department
+## 📁 Project File
 
-Age group 25–34 shows the maximum attrition
+| File Name | Description |
+|-----------|-------------|
+| `HR ANALYTICS DASHBOARD.twbx` | Tableau packaged workbook with visuals |
+| `HR dashboard image.pdf` | Dashboard preview snapshot |
+| `HR Analytics Dashboard QNA.pdf` | Business insights & recommended actions |
 
-Male employees exhibit higher attrition than female employees
+---
 
-Attrition concentrated among Life Sciences & Medical education backgrounds
+## 🧠 Learning Outcome
 
-🎯 Learning Outcomes
+- Practice real-world HR analytics and attrition analysis  
+- Improve Tableau dashboarding and visualization skills  
+- Generate actionable retention insights  
+- Create interview-ready HR analytics portfolio project  
 
-Apply HR analytics concepts to real-world datasets
+---
 
-Build KPI-driven dashboards in Tableau
+## 🔗 Connect With Me
 
-Generate actionable retention insights
+- 📧 Email: borhadeswaraj01@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/swaraj-borhade-921a411a4/  
 
-Improve storytelling using HR metrics
+---
 
-🔗 Connect With Me
-
-📧 Email: borhadeswaraj01@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/swaraj-borhade-921a411a4/
-
-
-⭐ If you found this project insightful, consider starring the repo and connecting with me!
+> ⭐ If you found this project interesting, feel free to star the repo and connect with me!
